@@ -1,0 +1,30 @@
+{
+	"Beneficiar": [
+		{
+			"nume": "Popescu",
+			"prenume": "Ion",
+			"cnp": "123123123123",
+			"tara": "Romania",
+			"adresa": {
+				"oras": "Botosani",
+				"localitate": "Botosani",
+				"strada": "Principala",
+				"numar": 1
+			},
+			"id_centru": 1
+		},
+		{
+			"nume": "Ionescu",
+			"prenume": "Vlaicu",
+            "cnp": "321321321321",
+			"tara": "Rusia",
+			"adresa": {
+				"oras": "Moscova",
+				"localitate": "Moscova",
+				"strada": "Moscovei",
+				"numar": 24
+			},
+			"id_centru": 3
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"Voluntari": [
+		{
+			"nume": "Popescu",
+			"prenume": "Ion",
+			"varsta": 25,
+			"id_centru": 1
+		},
+		{
+			"nume": "Ionescu",
+			"prenume": "Vasile",
+			"varsta": 30,
+			"id_centru": 1
+		},
+		{
+			"nume": "Ana",
+			"prenume": "Vasile",
+			"varsta": 35,
+			"id_centru": 1
+		}
+
+	]
+}
